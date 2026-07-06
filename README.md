@@ -112,9 +112,9 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh127f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mahesh's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mahesh127f&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh127f&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mahesh127f&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahesh127f&theme=tokyonight&hide_border=true)
 
