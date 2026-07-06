@@ -62,7 +62,7 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 ## 🚀 Featured Projects
 
-### 🛒 [E-Commerce-Web-Application_Adda94](https://github.com/Mahesh127f/E-Commerce-Web-Application_Adda94)
+### 🛒 [E-Commerce-Web-Application_Adda94](https://github.com/Mahesh127f/E-Commerce-Web-Application_Adda94) · [🔴 Live Demo](https://e-commerce-web-application-adda94.vercel.app/)
 > India's premium e-commerce web app with **105+ products** across 8 categories
 
 - 🛍️ Fashion, Electronics, Footwear, Beauty & more
@@ -86,7 +86,7 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 ---
 
-### 🌾 [AgriPrice-Forecasting-System_APS](https://github.com/Mahesh127f/AgriPrice-Forecasting-System_APS)
+### 🌾 [AgriPrice-Forecasting-System_APS](https://github.com/Mahesh127f/AgriPrice-Forecasting-System_APS) · [🔴 Live Demo](https://agri-price-forecasting-system-aps.vercel.app)
 > Full-stack web app that **forecasts crop prices** using ML models
 
 - 📈 Real-time dashboard with mandi map and price trends
