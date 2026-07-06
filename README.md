@@ -1,8 +1,5 @@
 <div align="center">
 
-```
-> console.log("Hey there! 👋 I'm Mahesh Yadav");
-```
 
 # Mahesh Yadav
 ### Full-Stack Web Developer · B.Tech IT · Amity University, Noida
@@ -40,7 +37,6 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
 **Backend**
 
@@ -56,7 +52,6 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -144,8 +139,5 @@ I'm always open to interesting projects, collaborations, or just a good tech cha
 
 *Thanks for visiting my profile! ⭐ Star some repos if you find them useful.*
 
-```
-// always learning · always building · always curious
-```
 
 </div>
