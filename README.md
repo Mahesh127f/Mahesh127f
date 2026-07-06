@@ -7,11 +7,11 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6c63ff?style=for-the-badge)](https://maheshyadavpersonalportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-yadav-a3a7913b6)
 [![Gmail](https://img.shields.io/badge/Gmail-mahesh127f@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahesh127f@gmail.com)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-red?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ![](https://komarev.com/ghpvc/?username=Mahesh127f&color=6c63ff&style=flat-square&label=Profile+Views)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/🟢_Open_to-Freelance_&_Internships-success?style=flat-square)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-red?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
 
