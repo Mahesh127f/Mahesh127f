@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-yadav-a3a7913b6)
 [![Gmail](https://img.shields.io/badge/Gmail-mahesh127f@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahesh127f@gmail.com)
 
+![Projects](https://img.shields.io/badge/Projects_Built-9+-6c63ff?style=flat-square)
 ![](https://komarev.com/ghpvc/?username=Mahesh127f&color=6c63ff&style=flat-square&label=Profile+Views)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/🟢_Open_to-Freelance_&_Internships-success?style=flat-square)
@@ -113,12 +114,10 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mahesh127f&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mahesh127f&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mahesh127f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mahesh127f&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="220"/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahesh127f&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
