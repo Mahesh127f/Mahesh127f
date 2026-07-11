@@ -62,7 +62,7 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 ## 🚀 Featured Projects
 
-### 🛒 [E-Commerce-Web-Application_Adda94](https://github.com/Mahesh127f/E-Commerce-Web-Application_Adda94) · [🔴 Live Demo](https://e-commerce-web-application-adda94.vercel.app/)
+### 🛒 [E-Commerce-Web-Application_Adda94](https://github.com/Mahesh127f/E-Commerce-Web-Application_Adda94) · 🔴 [Live Demo](https://e-commerce-web-application-adda94.vercel.app)
 > India's premium e-commerce web app with **105+ products** across 8 categories
 
 - 🛍️ Fashion, Electronics, Footwear, Beauty & more
@@ -74,7 +74,7 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 ---
 
-### 🛡️ [Woman-Safety-Analytics_Rakshak](https://github.com/Mahesh127f/Woman-Safety-Analytics_Rakshak)
+### 🛡️ [Woman-Safety-Analytics_Rakshak](https://github.com/Mahesh127f/Woman-Safety-Analytics_Rakshak) · 🔴 [Live Demo](https://women-safety-analytics-hb28.onrender.com)
 > Smart web-based safety system using **AI & real-time analytics**
 
 - 🤖 DeepFace AI for real-time gender and emotion detection via webcam
@@ -86,7 +86,7 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 ---
 
-### 🌾 [AgriPrice-Forecasting-System_APS](https://github.com/Mahesh127f/AgriPrice-Forecasting-System_APS) · [🔴 Live Demo](https://agri-price-forecasting-system-aps.vercel.app)
+### 🌾 [AgriPrice-Forecasting-System_APS](https://github.com/Mahesh127f/AgriPrice-Forecasting-System_APS) · 🔴 [Live Demo](https://agri-price-forecasting-system-aps.vercel.app)
 > Full-stack web app that **forecasts crop prices** using ML models
 
 - 📈 Real-time dashboard with mandi map and price trends
@@ -98,7 +98,7 @@ I love building real, full-stack web apps — from clean frontends to proper bac
 
 ---
 
-### 🍽️ [Restaurant-Management-System_EatSmart](https://github.com/Mahesh127f/Restaurant-Management-System_EatSmart)
+### 🍽️ [Restaurant-Management-System_EatSmart](https://github.com/Mahesh127f/Restaurant-Management-System_EatSmart) · 🔴 [Live Demo](https://eatsmart.great-site.net)
 > Web-based Restaurant Management System with smart features
 
 - 🪑 Table reservations with time slots
